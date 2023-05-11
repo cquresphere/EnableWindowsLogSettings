@@ -1,7 +1,7 @@
 # Yamato Security's Configure Windows Event Logs Batch File
 # Author: Zach Mathis (@yamatosecurity), Sachiel Archangel
 # This script is based off the work of Sachiel Archangel's WinEventEnable.bat
-# https://github.com/Sachiel-archangel/WinEventEnable/blob/main/WinEventEnable.ps1
+# https://github.com/Sachiel-archangel/WinEventEnable/blob/main/WinEventEnable.bat
 #
 # Warning: Use this PowerShell script as a template and understand what you are enabling!
 # You will need to customize this file to fit your environment.
